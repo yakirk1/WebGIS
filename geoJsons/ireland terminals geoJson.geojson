@@ -1,0 +1,30 @@
+{
+"type": "FeatureCollection",
+"name": "ireland terminals geoJson",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "OBJECTID": 54, "Name": "Lecanvey, Ireland", "city_id": "17094", "cable_id": "1931" }, "geometry": { "type": "Point", "coordinates": [ -1079409.219813816249371, 7126871.461293444037437, 0.0 ] } },
+{ "type": "Feature", "properties": { "fid": 2, "OBJECTID": 370, "Name": "Whitehead, United Kingdom", "city_id": "16018", "cable_id": "1834" }, "geometry": { "type": "Point", "coordinates": [ -636604.553105048835278, 7314211.645036980509758, 0.0 ] } },
+{ "type": "Feature", "properties": { "fid": 3, "OBJECTID": 529, "Name": "Killala, Ireland", "city_id": "14732", "cable_id": "1691" }, "geometry": { "type": "Point", "coordinates": [ -1027722.80103899165988, 7209425.521880589425564, 0.0 ] } },
+{ "type": "Feature", "properties": { "fid": 4, "OBJECTID": 530, "Name": "Cork, Ireland", "city_id": "3522", "cable_id": "1889" }, "geometry": { "type": "Point", "coordinates": [ -943184.219329845160246, 6781764.312260642647743, 0.0 ] } },
+{ "type": "Feature", "properties": { "fid": 5, "OBJECTID": 531, "Name": "Cork, Ireland", "city_id": "3522", "cable_id": "1673" }, "geometry": { "type": "Point", "coordinates": [ -943184.219329845160246, 6781764.312260642647743, 0.0 ] } },
+{ "type": "Feature", "properties": { "fid": 6, "OBJECTID": 598, "Name": "Larne, United Kingdom", "city_id": "11390", "cable_id": "1614" }, "geometry": { "type": "Point", "coordinates": [ -646752.771807793527842, 7334257.000650867819786, 0.0 ] } },
+{ "type": "Feature", "properties": { "fid": 7, "OBJECTID": 600, "Name": "Donaghadee, United Kingdom", "city_id": "7732", "cable_id": "1387" }, "geometry": { "type": "Point", "coordinates": [ -616574.725860990583897, 7292860.12103033810854, 0.0 ] } },
+{ "type": "Feature", "properties": { "fid": 8, "OBJECTID": 602, "Name": "Carrickfergus, United Kingdom", "city_id": "13377", "cable_id": "1754" }, "geometry": { "type": "Point", "coordinates": [ -646562.526834700256586, 7306492.050589062273502, 0.0 ] } },
+{ "type": "Feature", "properties": { "fid": 9, "OBJECTID": 605, "Name": "Ballyhornan, United Kingdom", "city_id": "13373", "cable_id": "1752" }, "geometry": { "type": "Point", "coordinates": [ -618868.46392660588026, 7227569.190393179655075, 0.0 ] } },
+{ "type": "Feature", "properties": { "fid": 10, "OBJECTID": 610, "Name": "Ballywater, United Kingdom", "city_id": "13371", "cable_id": "1751" }, "geometry": { "type": "Point", "coordinates": [ -610519.502133790403605, 7273623.230759143829346, 0.0 ] } },
+{ "type": "Feature", "properties": { "fid": 11, "OBJECTID": 627, "Name": "Lusk, Ireland", "city_id": "10907", "cable_id": "1685" }, "geometry": { "type": "Point", "coordinates": [ -686383.067142203450203, 7080940.164109654724598, 0.0 ] } },
+{ "type": "Feature", "properties": { "fid": 12, "OBJECTID": 953, "Name": "Dublin, Ireland", "city_id": "3077", "cable_id": "1911" }, "geometry": { "type": "Point", "coordinates": [ -695552.787547744810581, 7047637.740176677703857, 0.0 ] } },
+{ "type": "Feature", "properties": { "fid": 13, "OBJECTID": 954, "Name": "Dublin, Ireland", "city_id": "3077", "cable_id": "1080" }, "geometry": { "type": "Point", "coordinates": [ -695552.787547744810581, 7047637.740176677703857, 0.0 ] } },
+{ "type": "Feature", "properties": { "fid": 14, "OBJECTID": 1133, "Name": "Kilmore Quay, Ireland", "city_id": "5863", "cable_id": "1054" }, "geometry": { "type": "Point", "coordinates": [ -732938.325348652899265, 6831753.883958175778389, 0.0 ] } },
+{ "type": "Feature", "properties": { "fid": 15, "OBJECTID": 1134, "Name": "Kilmore Quay, Ireland", "city_id": "5863", "cable_id": "1223" }, "geometry": { "type": "Point", "coordinates": [ -732938.325348652899265, 6831753.883958175778389, 0.0 ] } },
+{ "type": "Feature", "properties": { "fid": 16, "OBJECTID": 1137, "Name": "Sandymount, Ireland", "city_id": "5865", "cable_id": "1224" }, "geometry": { "type": "Point", "coordinates": [ -691900.172463241964579, 7044537.934584990143776, 0.0 ] } },
+{ "type": "Feature", "properties": { "fid": 17, "OBJECTID": 1164, "Name": "Kilmore Quay, Ireland", "city_id": "5863", "cable_id": "1205" }, "geometry": { "type": "Point", "coordinates": [ -732938.325348652899265, 6831753.883958175778389, 0.0 ] } },
+{ "type": "Feature", "properties": { "fid": 18, "OBJECTID": 1420, "Name": "Ballygrangans, Ireland", "city_id": "8406", "cable_id": "1547" }, "geometry": { "type": "Point", "coordinates": [ -730122.721471145749092, 6833477.978694312274456, 0.0 ] } },
+{ "type": "Feature", "properties": { "fid": 19, "OBJECTID": 1421, "Name": "Ballinesker, Ireland", "city_id": "8407", "cable_id": "1547" }, "geometry": { "type": "Point", "coordinates": [ -708532.862822368741035, 6873042.996352314949036, 0.0 ] } },
+{ "type": "Feature", "properties": { "fid": 20, "OBJECTID": 1426, "Name": "Dublin, Ireland", "city_id": "3077", "cable_id": "1092" }, "geometry": { "type": "Point", "coordinates": [ -695552.787547744810581, 7047637.740176677703857, 0.0 ] } },
+{ "type": "Feature", "properties": { "fid": 21, "OBJECTID": 1502, "Name": "Coleraine, United Kingdom", "city_id": "9038", "cable_id": "1080" }, "geometry": { "type": "Point", "coordinates": [ -743189.737272880971432, 7387280.174749471247196, 0.0 ] } },
+{ "type": "Feature", "properties": { "fid": 22, "OBJECTID": 1532, "Name": "Clonshaugh, Ireland", "city_id": "10313", "cable_id": "1684" }, "geometry": { "type": "Point", "coordinates": [ -689948.74179970100522, 7059210.1339942663908, 0.0 ] } },
+{ "type": "Feature", "properties": { "fid": 23, "OBJECTID": 1701, "Name": "Dublin, Ireland", "city_id": "3077", "cable_id": "1641" }, "geometry": { "type": "Point", "coordinates": [ -695552.787547744810581, 7047637.740176677703857, 0.0 ] } }
+]
+}

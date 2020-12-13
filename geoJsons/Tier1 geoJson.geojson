@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Tier1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 23, "OBJECTID_1": 23, "OBJECTID": 219, "Tier": 1, "Name": "Supplier 219", "Material": "Plastics", "Volume": 3230, "Risk": 9, "Employees": 18, "Contact": "Blakeley, Marsha", "Email": "MarshaKBlakeley@superrito.com", "Phone": "203-678-6787", "x": -6.26907, "y": 53.3452, "SupplierID": 219, "CreationDa": "2017-08-10", "Creator": "manudemos", "EditDate": "2017-08-10", "Editor": "manudemos", "Plat_Name": null, "Plant_ID": 0, "Tier_2_Sup": null, "Tier_2_S_1": 0.0, "Tier_3A_Su": null, "Tier_3A__1": 0.0, "Tier_3B_Su": null, "Tier_3B__1": 0.0, "Affected_S": 0, "Operating_": 0, "Priority": 0, "Creation_1": "2014-08-08", "Creator_1": "manucomm", "EditDate_1": "2014-08-08", "Editor_1": "manucomm" }, "geometry": { "type": "Point", "coordinates": [ -697869.680099997669458, 7047107.5962999984622 ] } }
+]
+}
